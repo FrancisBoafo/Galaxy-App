@@ -39,7 +39,7 @@ export default function ExamplesLayout({ children }: ExamplesLayoutProps) {
             <ArrowRightIcon className="ml-1 h-4 w-4" />
           </Link>
           <PageHeaderHeading className="hidden md:block">
-            Welcome to Galaxy 
+            Welcome Back Francis
           </PageHeaderHeading>
           <PageHeaderHeading className="md:hidden">Welcome to Galaxy</PageHeaderHeading>
           <PageHeaderDescription>

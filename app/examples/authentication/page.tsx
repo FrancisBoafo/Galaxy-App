@@ -63,7 +63,7 @@ export default function AuthenticationPage() {
           <div className="relative z-20 mt-auto">
             <blockquote className="space-y-2">
               <p className="text-lg">
-                &ldquo; Delivery quality food to your door. &rdquo;
+                &ldquo; X &rdquo;
               </p>
               <footer className="text-sm">Francis Rihmeek</footer>
             </blockquote>
